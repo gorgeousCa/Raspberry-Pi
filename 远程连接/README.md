@@ -40,7 +40,7 @@ ip如果通过网线连接路由器，可以直接查询；如果不是，可以
 - 通过以上操作，VNC Server开启完毕。之后树莓派每次开机，VNC Server都会自启动。这就确保了我们可以随时远程登陆树莓派。
  - 在windows计算机上使用VNC Viewer
 打开你的windows计算机并安装VNC Viewer。顾名思义，VNC Viewer与VNC Server是配合使用的，而且是单向控制，即你只能使用Viewer端登陆Server端。VNC是免费软件，你可以在VNC官方网站上获取。 
-VNC的软件界面示例如下（不同的版本可能会有差别）： 
+VNC的软件界面示例如下（不同的版本可能会有差别）  
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005203409216?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
 - VNC Server这一栏填写树莓派ip地址。 
 - Username和Password指的是你登陆树莓派的用户名和密码，如果你没有对树莓派进行用户配置，用户名为pi，密码为raspberry。 
