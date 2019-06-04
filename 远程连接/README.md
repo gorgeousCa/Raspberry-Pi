@@ -8,22 +8,15 @@
        `sudo /etc/init.d/xrdp restart`
      如出现以下画面，可使用 netstat tnl 查看端口3350 3389 5910 这三个端口处于LISTEN
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005195303868watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-  
 ## THE SECOND 使用putty远程连接
 - 确认树莓派SSH打开
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005195942505?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
  - 在Windows电脑上下载putty.exe。,并打开（如上图所示）
-r![在这里插入图片描述](https://img-blog.csdn.net/20181005200359862?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-  
-                  
+r![在这里插入图片描述](https://img-blog.csdn.net/20181005200359862?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)              
 - 输入IP地址，并点击open
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005200809664?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-
  - 输入登录名和密码，按回车即可。然后就大功告成啦。
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005201045773?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-
-
-
  ## THE THIRD 使用VNC远程登陆树莓派
  - 开启Raspbian的VNC Server
    在终端输入命令：
