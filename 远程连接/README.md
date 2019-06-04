@@ -6,7 +6,7 @@
        `sudo apt-get install xrdp`
    - 启动xrdp服务
        `sudo /etc/init.d/xrdp restart`
-     如出现以下画面，可使用 netstat tnl 查看端口3350 3389 5910 这三个端口处于LISTEN
+如出现以下画面，可使用 netstat tnl 查看端口3350 3389 5910 这三个端口处于LISTEN
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005195303868watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 ## THE SECOND 使用putty远程连接
 - 确认树莓派SSH打开
@@ -24,11 +24,11 @@ r![在这里插入图片描述](https://img-blog.csdn.net/20181005200359862?wate
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005202258915?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 - 将光标移至第5项：Interfacing Options，并敲回车。
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005202529543?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-- 选择第3项：VNC，并敲回车。
+- 选择第3项：VNC，并敲回车
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005202818746?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-- 选择“是”，并敲回车。
+- 选择“是”，并敲回车
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005203007315?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-- 设置结束，敲回车进行确认。
+- 设置结束，敲回车进行确认
 - 通过以上操作，VNC Server开启完毕。之后树莓派每次开机，VNC Server都会自启动。这就确保了我们可以随时远程登陆树莓派。
  - 在windows计算机上使用VNC Viewer
 打开你的windows计算机并安装VNC Viewer。顾名思义，VNC Viewer与VNC Server是配合使用的，而且是单向控制，即你只能使用Viewer端登陆Server端。VNC是免费软件，你可以在VNC官方网站上获取。 
