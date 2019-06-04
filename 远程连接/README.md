@@ -24,7 +24,7 @@
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005202258915?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
 - 将光标移至第5项：Interfacing Options，并敲回车。  
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005202529543?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
-- 选择第3项：VNC，并敲回车
+- 选择第3项：VNC，并敲回车  
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005202818746?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)    
 - 选择“是”，并敲回车
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005203007315?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
