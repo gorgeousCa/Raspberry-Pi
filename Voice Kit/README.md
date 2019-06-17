@@ -86,7 +86,6 @@ Voice Kit需要特殊版本的Raspbian操作系统，其中包括一些额外的
 对于Mac：选择打开方式> TextEdit
 对于Windows：选择打开方式>更多应用程序>记事本。
 ![image text](https://github.com/gorgeousCa/Dayup/blob/master/Voice%20Kit/voice081.jpg)
-
 ## PART 4  运行一些演示  
 - 我们提供了几个展示语音识别的演示应用程序和具有不同功能的Google智能助理，您可以将其用作模板来创建自己的应用程序。他们位于~/AIY-projects-python/src/examples/voice/。
 - 让设备像Google Home一样开始充当Google智能助理，请在桌面上双击“启动开发终端”并输入以下命令启动助手库演示应用：
