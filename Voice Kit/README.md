@@ -92,8 +92,6 @@ Voice Kit需要特殊版本的Raspbian操作系统，其中包括一些额外的
 cd / AIY-projects-python / src / examples / voice
 ./assistant_library_demo.py
 - 您将看到有关转到URL以授权您的应用程序的消息。由于此应用程序使用Google智能助理，因此您需要获得安全访问Google帐户数据的权限。要执行此操作，您必须通过转到打印出的URL并授予访问权限进行授权。Web浏览器应自动打开并加载此页面。如果没有，则将您在终端中看到的链接复制并粘贴到浏览器中，然后登录并授予访问权限。
-
-
 - 助手库应用程序内置了热门词检测功能。要与Google智能助理开始对话，请说“Ok，Google”或“Hi ,Google”。完成后，按Ctrl+C结束应用程序。
 启动助手GRPC演示应用程序
 - 双击桌面上的“启动开发终端”，然后输入：
