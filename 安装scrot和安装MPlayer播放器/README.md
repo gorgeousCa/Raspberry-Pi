@@ -14,13 +14,13 @@
    用鼠标选区屏幕区域截取执行：
 	
     sudo scrot -s
-![在这里插入图片描述](https://img-blog.csdn.net/20181006190010647?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![在这里插入图片描述](https://img-blog.csdn.net/20181006190010647?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzAzMDg5Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
  10秒后截取，参数可以自定义：
 	
     sudo scrot -d10
 
 
-执行下面的指令可以查看更多用法：
+执行下面的指令可以查看更多用法：  
 	
     sudo scrot -h
     
@@ -30,7 +30,7 @@
    指定文件位置：
    
     scrot /home/pi/Desktop/example.png
-   打开截图，导航到图片目录：
+   打开截图，导航到图片目录：  
    
      shotwell “example.png 
 
